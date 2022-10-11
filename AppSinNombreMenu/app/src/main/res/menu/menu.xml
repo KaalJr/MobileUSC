@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/uno"
+        app:showAsAction="never"
+        android:title="Opcion 1" />
+
+    <item android:id="@+id/dos"
+        app:showAsAction="never"
+        android:title="Opcion 2" />
+
+    <item android:id="@+id/tres"
+        app:showAsAction="never"
+        android:title="Redes Sociales" />
+
+</menu>
