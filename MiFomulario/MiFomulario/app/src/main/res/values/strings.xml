@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="titulo">Formulario</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="edad">Edad</string>
+    <string name="correo">Correo</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="Titulo2">Mis Datos</string>
+    <string name="btnOk">Ok</string>
+</resources>
